@@ -1,0 +1,167 @@
+
+header.masthead {
+  text-align: center;
+  color: white;
+  background-image: url("http://pinakidigital.com/bgh/images/home-banner-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+.hospital-blocks-wrapper{
+  padding: 10px 20px;
+    min-height: 220px;
+    color: #fff; 
+    padding-left: 10px;
+}
+.hospital-block-card-1{
+    background: #7549B1;
+}
+.hospital-block-card-1{
+    padding: 30px 20px;
+    min-height: 220px;
+    color: #fff;
+}
+.hospital-block-card-2{
+  background: #53004B;  
+}
+.hospital-block-card-2{
+    padding: 30px 20px;
+    min-height: 220px;
+    color: #fff;
+}
+.hospital-block-card-3{
+      background: #933a16;  
+}
+.hospital-block-card-3{
+    padding: 30px 20px;
+    min-height: 220px;
+    color: #fff;
+}
+.stat-item
+{
+    
+    background: #ffffffd4;
+    padding: 2px;
+    border-radius: 6px;
+    text-align: center;
+}
+.navbar
+{
+    border-radius: 0;
+    margin-bottom: 0;
+    background: transparent;
+    padding: 7px 0 0px 0;
+}
+nav#mainNav.affix-top {
+    background: #fff;
+    width: 100%;
+    top: 0;
+    box-shadow: 0 -2px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.2);
+}
+h3{
+    color: #ea3076;
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-weight: 800;
+    font-size: 27px;
+    margin-bottom: 0;
+}
+h1,h2,h3,h4,h5,h6
+{
+   font-weight: 500;
+    font-family: 'Raleway', sans-serif;     
+}
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+#footer {
+    padding-top: 15px;
+    padding-bottom: 12px;
+    color: #fff;
+    background: #064047;
+}
+.logohedcol{
+    color: #3F51B5;
+}
+
+.ui-list-item 
+{
+    list-style: none;
+}
+.ul-list-item 
+{
+    list-style: none;
+}
+.ul-list
+{
+ list-style: none;   
+}
+.aline{
+    text-align: left;
+}
+.hospital-blocks-wrapper h4{
+    font-size: 20px;
+    margin: 5px 0 10px 0;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 7px;
+}
+.service-item h4
+{
+   
+    border-bottom: 1px solid black;
+ 
+}
+ul.ui-list-item li i.fa {
+    color: #E91E63;
+    
+}
+.about-us-class-card1 h4
+{
+  border-bottom: 1px solid black;  
+}
+.ul-list li i.fa
+{
+    color: #ea3076; 
+}
+nav#mainNav.affix {
+    background: #fff;
+    width: 100%;
+    top: 0;
+    box-shadow: 0 -2px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.2);
+}
+.stat-item h5
+{
+    color: #ea3076; 
+}
+.stat-item h4
+{
+    color: lightslategrey;  
+}
+.stat-item p
+{
+    font-size: 35px;
+    color: #3F51B5;
+    font-weight: 500;
+    
+}
+.style{
+        margin-top: 30px;
+    font-family: 'Great Vibes', cursive;
+    letter-spacing: 1.5px;
+    font-size: 35px;
+    line-height: 40px;
+}
+.team-member
+{
+ 
+    background: #ffffffd4;
+    padding: 2px;
+    border-radius: 10px;
+    text-align: center;
+    height: 385px;
+    
+}
